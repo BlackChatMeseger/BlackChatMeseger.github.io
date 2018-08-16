@@ -1,0 +1,30 @@
+body{
+  background-color:darkblue;
+}
+
+h1{
+  color:blue;
+}
+
+h2{
+  color:yellow;
+}
+
+h3{
+  color:red;
+}
+
+div{
+  border:solid;
+  color:red;
+}
+
+a{
+color:white;
+}
+
+p{
+color:white;
+}
+
+
